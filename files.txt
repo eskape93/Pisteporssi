@@ -1,0 +1,43 @@
+=----------------------------------------
+= Ohjelmointi 2, 2015
+=----------------------------------------
+= Katso <a href=".." target="_top">työ vaiheittain</a>
+=
+@https://trac.cc.jyu.fi/projects/ohj2ht/browser/k2015/espeemhy = Työ versionhallinnassa
+
+= <h3>Ohjelman suunnitelma</h3>
+!https://trac.cc.jyu.fi/projects/ohj2ht/wiki/k2015/suunnitelmat/espeemhy = Suunnitelma Wikissä
+
+kuvat/paaikkunak.jpg = ohjelman pääikkuna (käsin piirretty) (vanha)
+kuvat/muutikkunat1k.jpg = ohjelman muita ikkunoita (käsin piirretty) (vanha)
+kuvat/muutikkunat2k.jpg = lisää ohjelman muita ikkunoita (käsin piirretty) (vanha)
+kuvat/vaihe1001.jpg = vaiheen1 pääikkuna
+kuvat/vaihe1002.jpg = vaiheen1 esimerkki pelaajien lisäyksestä
+kuvat/vaihe1003.jpg = vaiheen1 esimerkki ottelujen lisäyksestä
+
+kuvat/vaihe2001.jpg = vaiheen2 pääikkuna
+kuvat/vaihe2002.jpg = vaiheen2 pelaajien lisäys
+kuvat/vaihe2003.jpg = vaiheen2 ottelujen lisäys
+kuvat/vaihe2004.jpg = vaiheen2 ottelut ja niiden haku
+kuvat/vaihe2005.jpg = vaiheen2 varmistusviesti
+
+src/wbPisteporssi/LisaaPelaaja.java
+src/wbPisteporssi/OletkoVarma.java
+src/wbPisteporssi/OttelujenHaku.java
+src/wbPisteporssi/OttelunLisays.java
+src/wbPisteporssi/PisteporssiGUI.java
+
+src/porssi/Ottelu.java
+src/porssi/Ottelut.java
+src/porssi/Pelaaja.java
+src/porssi/Pelaajat.java
+src/porssi/OtteluPelaaja.java
+src/porssi/OtteluPelaajat.java
+src/porssi/Pisteporssi.java
+
+pisteporssi.jar
+build.xml
+
+= <h3>Tietorakenne ja luokat</h3>
+@https://trac.cc.jyu.fi/projects/ohj2ht/wiki/k2015/suunnitelmat/espeemhyCRC = CRC-kortit Wikissä
+kuvat/pistehar.jpg = tietorakenteen kuva
